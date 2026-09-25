@@ -1,7 +1,7 @@
 {
   "name": "@etony668/dsh-balance",
-  "description": "DeepSeek API 余额显示（输入框下方常驻）· DeepSeek API balance badge below the composer",
-  "version": "1.0.0",
+  "description": "DeepSeek API 余额常驻显示（侧边栏「设置」旁）· DeepSeek API balance badge beside Settings in the sidebar",
+  "version": "1.0.1",
   "type": "module",
   "main": "index.js",
   "exports": {
